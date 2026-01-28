@@ -1,9 +1,3 @@
--- DB Lab 1: DDL and DML Queries
--- Name: Amit Kumar
--- Course: B.Tech (CSE)
--- Semester: 4th
--- Tool: Oracle SQL Developer / MySQL Compatible
-
 -- Part A: DDL
 
 CREATE DATABASE CollegeDB;
