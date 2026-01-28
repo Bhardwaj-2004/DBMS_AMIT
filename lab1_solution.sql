@@ -28,9 +28,9 @@ DROP TABLE Course;
 INSERT INTO Student VALUES
 (101, 'Rahul', 'CSE', 20, '9876543210', 'Madhepura', 3),
 (102, 'Amit', 'CSE', 21, '9123456789', 'Patna', 4),
-(103, 'Neha', 'ECE', 19, '9988776655', 'Delhi', 2),
-(104, 'Priya', 'ME', 22, '8899776655', 'Kolkata', 5),
-(105, 'Suresh', 'CSE', 23, '7788996655', 'Patna', 6);
+(103, 'Rohit', 'CSE', 19, '9988776655', 'Delhi', 2),
+(104, 'Amarjeet', 'CSE', 22, '8899776655', 'Kolkata', 5),
+(105, 'Bhaskar', 'CSE', 23, '7788996655', 'Patna', 6);
 
 SELECT * FROM Student;
 SELECT RollNo, Name FROM Student;
